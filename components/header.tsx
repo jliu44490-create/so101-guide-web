@@ -23,11 +23,11 @@ export function Header() {
     <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/80 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center gap-2">
-          <div className="flex h-18 w-34 items-center justify-center rounded-lg bg-primary/10">
+          <div className="flex h-17 w-27 items-center justify-center rounded-lg bg-primary/10">
             <img
               src="/logo.jpeg"
               alt="绿晋科技"
-              className="h-18 w-34 object-contain"
+              className="h-17 w-27 object-contain"
             />
           </div>
         </Link>
